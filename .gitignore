@@ -1,0 +1,9 @@
+# Local evaluation outputs may contain machine paths and tool traces.
+/local-results/
+/release-run-check/
+/extended-evals/
+/paired-evals/
+*.jsonl
+*.stderr.txt
+__pycache__/
+*.py[cod]
